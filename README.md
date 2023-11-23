@@ -16,8 +16,8 @@ Prints the obtained matrix.
 ## Program:
 ```
 #Program to find the inverse of a matrix.
-#Developed by: 
-#RegisterNumber:
+#Developed by: Sai Darshini R S
+#RegisterNumber:23007938
 import numpy as np
 a=np.array([[6,2,3],
             [3,1,1],
